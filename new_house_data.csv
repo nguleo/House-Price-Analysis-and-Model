@@ -1,0 +1,16 @@
+MSZoning,LotArea,Street,LandContour,Utilities,HouseStyle,YearBuilt,TotalBsmtSF,CentralAir,Electrical,1stFlrSF,FullBath,HalfBath,BedroomAbvGr,KitchenAbvGr,TotRmsAbvGrd,Fireplaces,GarageCars,MoSold,YrSold
+RL,8000,Pave,Lvl,AllPub,2Story,2003,1564,Y,SBrkr,968,2,1,4,2,6,1,2,2,2008
+RH,9600,Pave,Bnk,AllPub,1Story,1976,1333,Y,SBrkr,1262,2,0,3,1,6,1,2,5,2007
+RL,11250,Grvl,Lvl,Nosewa,2Story,2001,920,Y,SBrkr,926,2,1,3,1,6,1,2,9,2008
+RL,10763,Pave,Lvl,Nosewa,2Story,1915,876,Y,SBrkr,956,1,0,3,1,7,1,3,2,2006
+C (ALL),14260,Pave,Low,AllPub,2Story,2000,1145,N,FuseF,1145,2,1,4,1,9,1,3,12,2008
+RL,14115,Grvl,Lvl,Nosewa,1.5Fin,1993,796,Y,SBrkr,796,1,1,1,1,5,0,2,10,2009
+FV,10084,Grvl,Bnk,allPub,1Story,2004,1686,Y,SBrkr,1694,2,0,3,1,7,1,2,8,2007
+RL,10382,Pave,Lvl,AllPub,2Story,1973,1205,Y,SBrkr,1107,2,1,3,1,7,2,2,11,2009
+RM,7936,Pave,Hls,AllPub,1.5Fin,1931,952,N,FuseF,1034,2,0,2,2,8,2,2,4,2008
+RL,9800,Pave,Lvl,AllPub,1.5Unf,1939,991,Y,FuseP,1077,1,0,2,2,5,2,1,1,2008
+C (ALL),11200,Grvl,Hls,Nosewa,1Story,1965,1040,Y,SBrkr,1076,2,0,3,1,5,0,1,2,2008
+RL,11924,Pave,Lvl,AllPub,2Story,2005,1175,N,SBrkr,1075,3,0,4,1,11,2,3,7,2006
+RM,13000,Pave,Low,AllPub,1Story,1962,912,Y,FuseA,809,1,0,2,1,4,0,1,9,2008
+RL,11423,Pave,Lvl,AllPub,1Story,2006,1207,Y,SBrkr,1494,2,0,3,1,7,1,3,8,2007
+RH,10920,Grvl,Lvl,AllPub,1Story,1960,1253,Y,mix,1253,1,1,2,1,5,1,1,5,2008
