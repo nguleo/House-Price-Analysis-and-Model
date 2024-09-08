@@ -10,9 +10,9 @@ def model_data(data):
     binary_cols = ['Street', 'Utilities', 'CentralAir']
 
     # Binary Encoding 
-    data['Street'] = data['Street'].replace( {'PAVE': 1, 'GRVL': 0})
-    data['Utilities'] = data['Utilities'].replace( {'ALLPUB': 1, 'NOSEWA': 0})
-    data['CentralAir'] = data['CentralAir'].replace( {'Y': 1, 'N': 0})
+    data['Street'] = data['Street'].replace( {'PAVE': 1, 'GRVL': 0, 'Unknown': -1})
+    data['Utilities'] = data['Utilities'].replace( {'ALLPUB': 1, 'NOSEWA': 0, 'Unknown': -1})
+    data['CentralAir'] = data['CentralAir'].replace( {'Y': 1, 'N': 0, 'Unknown': -1})
     
     data[binary_cols] = data[binary_cols].astype(int)
 
